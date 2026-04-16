@@ -38,7 +38,7 @@ O DevPacker possui um instalador oficial e leve para Windows (10 e 11), garantin
 ### 2. Para Desempacotar (Reconstruir Projeto)
 * Selecione o arquivo `.txt` ou `.json` que você gerou anteriormente.
 * Selecione a pasta de destino.
-* O programa criará uma nova pasta com o sufixo `_devpacker` para garantir que seus arquivos originais nunca sejam sobrescritos ou misturados por acidente.
+* O programa criará uma nova pasta com o sufixo `_devpacker-tf` para garantir que seus arquivos originais nunca sejam sobrescritos ou misturados por acidente.
 
 ---
 
