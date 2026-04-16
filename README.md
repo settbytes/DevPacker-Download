@@ -18,15 +18,13 @@ Com uma interface intuitiva e moderna, o software transforma estruturas complexa
 
 ## 📥 Download e Instalação
 
-O DevPacker é um software **portátil** para Windows (10 e 11). Isso significa que ele não precisa de instalação — basta baixar e rodar.
+O DevPacker possui um instalador oficial e leve para Windows (10 e 11), garantindo a integração correta e segura com o seu sistema.
 
 1.  Acesse a aba **Releases** deste repositório.
-2.  Baixe o arquivo `DevPacker.exe` (ou a versão `.zip` caso seu navegador bloqueie o executável).
-3.  Execute o arquivo para abrir a ferramenta.
+2.  Baixe o arquivo `Instalador_DevPacker_v1.0.exe`.
+3.  Execute o instalador e siga os passos na tela para concluir a instalação.
 
-> **⚠️ Aviso de Segurança:** Como o DevPacker é um software independente, o Windows SmartScreen ou o navegador Edge podem exibir um alerta de "Fornecedor Desconhecido". 
-> 
-> **Para prosseguir:** No navegador, clique em "Manter" (ou "Keep"). No Windows, clique em "Mais Informações" e depois em "Executar assim mesmo".
+> **⚠️ Aviso do SmartScreen:** Como o DevPacker é uma ferramenta nova, o Windows pode exibir uma tela azul de proteção do SmartScreen na primeira execução. Basta clicar em **Mais informações** e depois em **Executar assim mesmo** para prosseguir.
 
 ---
 
