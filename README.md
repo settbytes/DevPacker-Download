@@ -21,7 +21,7 @@ Com uma interface intuitiva e moderna, o software transforma estruturas complexa
 O DevPacker possui um instalador oficial e leve para Windows (10 e 11), garantindo a integração correta e segura com o seu sistema.
 
 1.  Acesse a aba **Releases** deste repositório.
-2.  Baixe o arquivo `Instalador_DevPackerTF_v1.0.exe`.
+2.  Baixe o arquivo `Instalador_DevPacker_v1.0.0.exe`.
 3.  Execute o instalador e siga os passos na tela para concluir a instalação.
 
 > **⚠️ Aviso do SmartScreen:** Como o DevPacker é uma ferramenta nova, o Windows pode exibir uma tela azul de proteção do SmartScreen na primeira execução. Basta clicar em **Mais informações** e depois em **Executar assim mesmo** para prosseguir.
@@ -38,7 +38,7 @@ O DevPacker possui um instalador oficial e leve para Windows (10 e 11), garantin
 ### 2. Para Desempacotar (Reconstruir Projeto)
 * Selecione o arquivo `.txt` ou `.json` que você gerou anteriormente.
 * Selecione a pasta de destino.
-* O programa criará uma nova pasta com o sufixo `_devpacker-tf` para garantir que seus arquivos originais nunca sejam sobrescritos ou misturados por acidente.
+* O programa criará uma nova pasta com o sufixo `_devpacker` para garantir que seus arquivos originais nunca sejam sobrescritos ou misturados por acidente.
 
 ---
 
