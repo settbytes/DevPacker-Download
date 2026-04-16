@@ -1,6 +1,6 @@
 # DevPacker - Teoria e Foco ®
 
-O **DevPacker** é uma ferramenta desktop de alta performance desenvolvida para facilitar a vida de desenvolvedores que precisam organizar, fazer backup ou compartilhar o contexto completo de seus projetos de código-fonte em um único local. 
+O **DevPackerTF** é uma ferramenta desktop de alta performance desenvolvida para facilitar a vida de desenvolvedores que precisam organizar, fazer backup ou compartilhar o contexto completo de seus projetos de código-fonte em um único local. 
 
 Com uma interface intuitiva e moderna, o software transforma estruturas complexas de pastas em arquivos consolidados, garantindo que nenhum detalhe da arquitetura original seja perdido.
 
